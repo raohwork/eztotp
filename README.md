@@ -1,6 +1,6 @@
 ![Crates.io](https://img.shields.io/crates/v/eztotp)
 ![docs.rs](https://img.shields.io/docsrs/eztotp)
-![Crates.io](https://img.shields.io/crates/l/exztotp)
+![Crates.io](https://img.shields.io/crates/l/eztotp)
 
 This crate provides a ready-to-use TOTP solution.
 
